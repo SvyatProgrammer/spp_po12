@@ -175,5 +175,5 @@ if __name__ == "__main__":
 
     print(f"Elements: {list(s4)}")
 
-    for item in s4:
-        print(f"Element: {item}")
+    for items in s4:
+        print(f"Element: {items}")
